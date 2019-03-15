@@ -5806,11 +5806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/CHUSHKA.Data.csproj",
+      "projectUniqueName": "/Users/karatanas/Desktop/project/azure-app/CHUSHKA.Data/CHUSHKA.Data.csproj",
       "projectName": "CHUSHKA.Data",
-      "projectPath": "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/CHUSHKA.Data.csproj",
+      "projectPath": "/Users/karatanas/Desktop/project/azure-app/CHUSHKA.Data/CHUSHKA.Data.csproj",
       "packagesPath": "/Users/karatanas/.nuget/packages/",
-      "outputPath": "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Data/obj/",
+      "outputPath": "/Users/karatanas/Desktop/project/azure-app/CHUSHKA.Data/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5827,8 +5827,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Models/CHUSHKA.Models.csproj": {
-              "projectPath": "/Users/karatanas/University/Projects/C#/azure-app/CHUSHKA.Models/CHUSHKA.Models.csproj"
+            "/Users/karatanas/Desktop/project/azure-app/CHUSHKA.Models/CHUSHKA.Models.csproj": {
+              "projectPath": "/Users/karatanas/Desktop/project/azure-app/CHUSHKA.Models/CHUSHKA.Models.csproj"
             }
           }
         }
